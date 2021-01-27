@@ -1,0 +1,7 @@
+\contentsline {chapter}{\numberline {1}Wprowadzenie}{1}{}%
+\contentsline {section}{\numberline {1.1}Opis problemu}{2}{}%
+\contentsline {chapter}{\numberline {2}Opis metody}{4}{}%
+\contentsline {section}{\numberline {2.1}Wprowadzenie teoretyczne}{4}{}%
+\contentsline {section}{\numberline {2.2}Badania symulacyjne}{6}{}%
+\contentsline {chapter}{\numberline {3}Podsumowanie}{8}{}%
+\contentsline {chapter}{\numberline {A}Kod programu}{9}{}%
